@@ -8,6 +8,7 @@ dev_support/
 .env
 
 # Cartelle con file temporanei
+.DS_Store
 logs/
 .pytest_cache/
 __pycache__/
